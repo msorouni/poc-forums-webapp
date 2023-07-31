@@ -29,8 +29,8 @@
     }
   },
   "entities": {
-    "Deals": {
-      "source": "dbo.Deals",
+    "Forums": {
+      "source": "dbo.Forums",
       "permissions": [
         {
           "role": "anonymous",
